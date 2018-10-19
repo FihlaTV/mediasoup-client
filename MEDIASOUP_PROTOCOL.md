@@ -88,6 +88,7 @@ Request:
   direction: 'send', // 'send'/'recv'.
   options: {},
   dtlsParameters: {}, // Optional.
+  plainRtpParameters: {}, // Optional.
   appData: Any
 }
 ```
